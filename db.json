@@ -150,30 +150,6 @@
             "avgDailyYieldLast14d": 5.03,
             "avgDailyYieldLast21d": 7.27
         }
-    ],
-    "pageable": {
-        "pageNumber": 0,
-        "pageSize": 10,
-        "sort": {
-            "empty": false,
-            "sorted": true,
-            "unsorted": false
-        },
-        "offset": 0,
-        "paged": true,
-        "unpaged": false
-    },
-    "last": false,
-    "totalElements": 309,
-    "totalPages": 31,
-    "size": 10,
-    "number": 0,
-    "sort": {
-        "empty": false,
-        "sorted": true,
-        "unsorted": false
-    },
-    "first": true,
-    "numberOfElements": 10,
-    "empty": false
+    ]
+
 }
